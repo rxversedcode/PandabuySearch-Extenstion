@@ -1,0 +1,13 @@
+{
+    "name": "Pandabuy Search",
+    "version": "1.0",
+    "manifest_version": 3,
+    "description": "Input a TaoBao or Wedian link (not shop) and it will open in Pandabuy.",
+    "action": {
+      "default_title": "Pandabuy search",
+      "default_popup": "popup.html",
+      "default_icon": {
+        "32": "pandabuy.png"
+      }
+    }
+  }
